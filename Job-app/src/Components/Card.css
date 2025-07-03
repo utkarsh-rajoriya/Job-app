@@ -1,0 +1,14 @@
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .tech-stack .badge {
+    font-size: 12px;
+    padding: 5px 10px;
+  }
+  
